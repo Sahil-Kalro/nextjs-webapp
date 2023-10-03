@@ -1,0 +1,54 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Suzuki GSXR",
+        "category": "Super Sports",
+        "displacement":"998.6 cc",
+        "transmission":"6 speed",
+        "Top_Speed":"299 kmph",
+        "meta":"Experience the exhilaration of the 2012 Suzuki GSXR 1000cc with a 6-speed transmission, a true icon in the super sports motorcycle category. Unleash the power, precision, and speed of this legendary machine",
+        "description": "Description of Product 1",
+        "price": 19.99,
+        "image": "/product1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Yamaha R1",
+        "category": "Super Sports",
+        "displacement":"998 cc",
+        "transmission":"6 speed",
+        "Top_Speed":"280.9 kmph",
+        "meta":"Experience the remarkable power and precision of the 2012 Yamaha YZF-R1 Crossplane. With its innovative crossplane crankshaft technology, this superbike delivers unrivaled performance and a thrilling riding experience. ",
+        "description": "Description of Product 2",
+        "price": 29.99,
+        "image": "/product2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Triumph Triple R",
+        "category": "Standard",
+        "displacement":"1050 cc",
+        "transmission":"6 speed",
+        "Top_Speed":"253.8 kmph",
+        "meta":"Discover the 2012 Triumph Triple R, a remarkable standard category motorcycle known for its versatile performance and timeless style. Ride with confidence and precision on this iconic machine, and experience the perfect blend of power and elegance.",
+        "description": "Description of Product 3",
+        "price": 24.99,
+        "image": "/product3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Harley Davidson V Rod Muscle",
+        "category": "Cruiser",
+        "displacement":"1247 cc",
+        "transmission":"5 speed",
+        "Top_Speed":"223.5 kmph",
+        "meta":"Discover the 2012 Triumph Triple R, a remarkable standard category motorcycle known for its versatile performance and timeless style. Ride with confidence and precision on this iconic machine, and experience the perfect blend of power and elegance.",
+        "description": "Description of Product 4",
+        "price": 34.99,
+        "image": "/product4.jpg"
+      }
+    ]
+  }
+  
+  

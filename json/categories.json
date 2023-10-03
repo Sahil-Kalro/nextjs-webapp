@@ -1,0 +1,23 @@
+{
+    "types": [
+      {
+        "id": 1,
+        "category": "Super Sports",
+        "image":"7.jpg",
+        "meta":"Explore the thrilling world of 1000cc super sports motorcycles from Suzuki and Yamaha. Discover the pinnacle of power, performance, and precision in our superbike collection, designed for adrenaline junkies and speed enthusiasts."
+      },
+      {
+        "id": 2,
+        "category": "Standard",
+        "image":"6.jpg",
+        "meta":"Explore the versatile world of 1000cc standard motorcycles by Triumph. Discover a perfect balance of style and performance with our Triumph standard bike collection. Ride with confidence and elegance on our legendary 1000cc standard motorcycles."
+      },
+      {
+        "id": 3,
+        "category": "Cruiser",
+        "image":"5.jpg",
+        "meta":"Discover the timeless allure of 1000cc Harley-Davidson cruiser motorcycles. Cruise in style and power with our iconic collection. Experience the open road like never before with Harley-Davidson's legendary 1000cc cruisers."
+      }
+    ]
+  }
+  
