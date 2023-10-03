@@ -39,7 +39,7 @@ function Header() {
             
             <ul className="navbar-nav mb-2 mb-lg-0">
               <li className="nav-item dropdown">
-                <a
+                <Link
                   href="/"
                   className="nav-link dropdown-toggle"
                   data-toggle="dropdown"
@@ -49,7 +49,7 @@ function Header() {
                   aria-expanded="false"
                 >
                   <FontAwesomeIcon icon={faUserAlt} />
-                </a>
+                </Link>
                 <ul
                   className="dropdown-menu dropdown-menu-end"
                   aria-labelledby="userDropdown"
